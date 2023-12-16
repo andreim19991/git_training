@@ -1,3 +1,3 @@
 library(DBI)
-library(tidyverse) # Allows downloading packages 
+library(tidyverse) # Best for data science
 library(RPostgres)
